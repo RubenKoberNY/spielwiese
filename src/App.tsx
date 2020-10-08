@@ -23,9 +23,7 @@ function App() {
       <Container>
         <Typography variant="h4">Spielwiese</Typography>
         <Typography variant="subtitle1">
-          A demo poject on how to handle a file upload by{" "}
-          <Link href="mailto:krause@noseryoung.com">Michelle Krause</Link> and{" "}
-          <Link href="mailto:kober@noseryoung.com">Ruben Kober</Link>
+          A demo poject on how to handle a file upload
         </Typography>
         <br></br>
         <Typography variant="h6">Used technologies:</Typography>
